@@ -34,4 +34,4 @@ The assignment allows either Google Sheets or Excel and permits a written dashbo
 
 ## Tableau Public Dashboard
 
-[View the Big Billion Days Regional Performance Review](https://public.tableau.com/app/profile/sumathi.k2438/viz/BigBillionDaysRegionalPerformanceReview/Dashboard1)
+- Dashboard: Tableau Public dashboard published online. See the dashboard link below; `docs/dashboard_spec.md` contains the dashboard specifications and recommendations.
