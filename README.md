@@ -30,3 +30,8 @@ A traceable analytics project using the synthetic Big Billion Days dataset. Mone
 ## Assumptions
 
 The assignment allows either Google Sheets or Excel and permits a written dashboard specification without a Tableau workbook. The project documents formulas for Google Sheets/Excel and specifies a Tableau Public dashboard but does not claim a workbook was built. `order_month` is retained as text. Missing amounts remain empty in the enriched CSV and are not imputed; those records are pending, not completed revenue.
+
+
+## Tableau Public Dashboard
+
+[View the Big Billion Days Regional Performance Review](https://public.tableau.com/app/profile/sumathi.k2438/viz/BigBillionDaysRegionalPerformanceReview/Dashboard1)
